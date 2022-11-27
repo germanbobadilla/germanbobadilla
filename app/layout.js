@@ -1,5 +1,5 @@
 import '../styles/globals.css';
-import Footer from './components/footer/Footer';
+// import Footer from './components/footer/Footer';
 import Header from './components/header/Header';
 import Head from './components/head';
 
@@ -10,7 +10,7 @@ export default function RootLayout({ children }) {
       <body>
         <Header />
         {children}
-        <Footer />
+        {/* <Footer /> */}
       </body>
     </html>
   );
