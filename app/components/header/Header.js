@@ -7,10 +7,10 @@ const Header = () => {
       <h1>I am the header</h1>
       <nav>
         <Link href="/">Home</Link>
-        <Link href="/projects">Projects</Link>
-        <Link href="/education">Education</Link>
-        <Link href="/blog">Blog</Link>
-        <Link href="/contact">Contact</Link>
+        <Link href="/pages/projects">Projects</Link>
+        <Link href="/pages/education">Education</Link>
+        <Link href="/pages/blog">Blog</Link>
+        <Link href="/pages/contact">Contact</Link>
       </nav>
     </header>
   );
