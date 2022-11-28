@@ -1,8 +1,12 @@
 import React from 'react';
 import './contact.css';
 
-const Home = () => {
-  return <h1 className="background-color">Contact page</h1>;
+const Contact = () => {
+  return (
+    <main>
+      <h1>Contacts page</h1>
+    </main>
+  );
 };
 
-export default Home;
+export default Contact;
