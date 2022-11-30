@@ -24,6 +24,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  background-color: red;
+}
+
 * {
   box-sizing: border-box;
 }
